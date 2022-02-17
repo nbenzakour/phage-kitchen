@@ -12,3 +12,5 @@
 [Lifestyle and host predictions](4_lifestyle_and_host_prediction.md)
 
 [Image analysis](5_image_analysis.md)
+
+![Image](images/Matrix_FEB2022.png?raw=true)
