@@ -1,6 +1,8 @@
 ![Image](images/PK_logo.svg?raw=true)
 -------
 
+[DISCLAIMER - WORK IN PROGRESS]
+
 ### Repository of bioinformatics tools, pipelines, recipes and more, with a focus on bacteriophages.
 
 [Complete pipelines](1_complete_pipelines.md)
