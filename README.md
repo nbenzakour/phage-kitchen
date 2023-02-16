@@ -15,4 +15,10 @@
 
 [Image analysis](5_image_analysis.md)
 
+
+## Useful links
+* Trello board offering a different visual https://trello.com/b/IiJPNh0G/phage-bioinformatics
+* Google sheet matrix describing tools and their components (most recent update May 2022). This is useful to compare pipelines for instance. https://docs.google.com/spreadsheets/d/1PUpJwDwMcAN_u06cmGZEnpm0WmEJOPdH_NxKT-3u9fs
+
 ![Image](images/Matrix_FEB2022.png?raw=true)
+
